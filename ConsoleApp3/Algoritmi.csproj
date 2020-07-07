@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp3.Basic_Declarations_and_Expressions._36</StartupObject>
+    <StartupObject>ConsoleApp3.Basic_Declarations_and_Expressions._51</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -82,6 +82,21 @@
     <Compile Include="Basic Declarations and Expressions\34.cs" />
     <Compile Include="Basic Declarations and Expressions\35.cs" />
     <Compile Include="Basic Declarations and Expressions\36.cs" />
+    <Compile Include="Basic Declarations and Expressions\37.cs" />
+    <Compile Include="Basic Declarations and Expressions\38.cs" />
+    <Compile Include="Basic Declarations and Expressions\39.cs" />
+    <Compile Include="Basic Declarations and Expressions\40.cs" />
+    <Compile Include="Basic Declarations and Expressions\41.cs" />
+    <Compile Include="Basic Declarations and Expressions\42.cs" />
+    <Compile Include="Basic Declarations and Expressions\43.cs" />
+    <Compile Include="Basic Declarations and Expressions\44.cs" />
+    <Compile Include="Basic Declarations and Expressions\45.cs" />
+    <Compile Include="Basic Declarations and Expressions\46.cs" />
+    <Compile Include="Basic Declarations and Expressions\47.cs" />
+    <Compile Include="Basic Declarations and Expressions\48.cs" />
+    <Compile Include="Basic Declarations and Expressions\49.cs" />
+    <Compile Include="Basic Declarations and Expressions\50.cs" />
+    <Compile Include="Basic Declarations and Expressions\51.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
